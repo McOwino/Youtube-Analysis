@@ -1,2 +1,15 @@
 # Youtube-Analysis
-
+As a data analyst working with YouTube data, my primary objective is to gain insight into the types of videos that generate the most engagement, as well as identify the optimal dates and topics for publishing videos. By analyzing factors such as likes, impressions, clicks, and comments, I hope to provide actionable recommendations to content creators in the coding industry.
+To begin the analysis, I would first need to acquire a dataset of YouTube videos related to programming and coding. The dataset would need to include various metrics such as views, likes, dislikes, comments, publish date, and video title. I would also need to ensure that the dataset includes videos that cover a wide range of topics related to the said industry, such as Pandas tutorial, excel hacks, and others.
+After obtaining the dataset, I would start by exploring the data to get a better understanding of its characteristics. This would involve performing various descriptive analyses, such as computing summary statistics and visualizing the distribution of each variable. I would also check for missing data, outliers, and other data quality issues that could affect the results of the analysis.
+Next, I would investigate the relationship between different variables in the dataset. For example, I would look at the correlation between the number of views and the number of likes to see if there is a strong positive relationship between the two. I would also explore how different factors such as publish date and video topic affect the engagement metrics.
+To identify the optimal dates and times for publishing videos, I would analyze the publish dates of the videos in the dataset and look for patterns in the engagement metrics. For example, I would investigate whether videos published on certain days of the week or at certain times of day tend to generate more views, likes, or comments. I would also explore whether there are seasonal trends in video engagement and adjust the analysis accordingly.
+Ultimately, the goal of this project is to provide insights into the types of topics, and publishing strategies that generate the most engagement on YouTube. By leveraging data analytics techniques, I hope to provide content creators in the scope of programming with actionable recommendations that can help them increase their reach and engagement on the platform through the analysis of the a sample YouTube dataset with the following columns:  
+        •	Video title: contains the title of each video in the dataset.
+        •	Video publish time: contains the date and time that each video was published on YouTube.
+        •	Comments added: This column likely contains the number of comments that have been added to each video.
+        •	Average percentage viewed (%): This column likely contains the average percentage of each video that viewers watched before navigating away from the page or    closing the video.
+        •	Likes: contains the number of likes that each video has received.
+        •	Views: contains the number of views that each video has received.
+        •	Impressions: contains the number of times that each video thumbnail was shown to viewers on YouTube.
+        •	Impressions click-through rate (%): contains the percentage of impressions that resulted in a viewer clicking through to watch the video.
